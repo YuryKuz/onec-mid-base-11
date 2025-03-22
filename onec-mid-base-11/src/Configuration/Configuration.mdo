@@ -1213,7 +1213,7 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.ЮМ_КонтактныеЛица</catalogs>
+  <catalogs>Catalog.ЮК_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ЮК_Должность</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>

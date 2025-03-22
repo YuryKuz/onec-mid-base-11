@@ -7,14 +7,14 @@
     <listType typeId="1e302f11-3a9e-44d7-ba49-4c8446cbf3ea" valueTypeId="837bdc8b-c982-4f33-88a4-0c6ccf9c2a90"/>
     <managerType typeId="2de6ba2b-6a2e-43f4-831d-d14c6153e1d0" valueTypeId="50a08ea1-e265-45f4-8433-5245e22fa367"/>
   </producedTypes>
-  <name>ЮМ_КонтактныеЛица</name>
+  <name>ЮК_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
     <value>Контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ЮМ_КонтактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.ЮМ_КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ЮК_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ЮК_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -112,9 +112,9 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.ЮМ_КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
-  <defaultListForm>Catalog.ЮМ_КонтактныеЛица.Form.ФормаСписка</defaultListForm>
-  <defaultChoiceForm>Catalog.ЮМ_КонтактныеЛица.Form.ФормаВыбора</defaultChoiceForm>
+  <defaultObjectForm>Catalog.ЮК_КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultListForm>Catalog.ЮК_КонтактныеЛица.Form.ФормаСписка</defaultListForm>
+  <defaultChoiceForm>Catalog.ЮК_КонтактныеЛица.Form.ФормаВыбора</defaultChoiceForm>
   <attributes uuid="4ec10402-de8d-4e7d-8a46-40eda5acfed0">
     <name>КонтактныйТелефон</name>
     <synonym>
